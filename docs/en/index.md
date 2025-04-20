@@ -13,11 +13,11 @@ hero:
     alt: StashMark Logo
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Guide
+      link: /guide/
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Quick Start
+      link: /quick-started/
 
 features:
   - title: Feature A

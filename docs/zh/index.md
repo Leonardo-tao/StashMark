@@ -14,10 +14,10 @@ hero:
   actions:
     - theme: brand
       text: 入门指南
-      link: /guide/
+      link: /zh/guide/
     - theme: alt
       text: 快速开始
-      link: /quick-started/
+      link: /zh/quick-started/
 
 features:
   - icon: 📍 
