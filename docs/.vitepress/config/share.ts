@@ -16,7 +16,7 @@ export const sharedConfig = defineConfig({
   title: "StashMark",
   titleTemplate: "Hi，终于等到你",
   description: "xxx、xxx",
-  head: [["link", { rel: "icon", href: "/favicon.svg" }]],
+  head: [["link", { rel: "icon", href: "/StashMark/favicon.svg" }]],
   base: VITE_BASE_URL,
   lastUpdated: true,
   vite: {
