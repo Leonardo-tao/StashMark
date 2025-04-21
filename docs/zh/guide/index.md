@@ -1,3 +1,11 @@
-# 指南
+---
+layout: demo 
+sidebar: false
+footer: false
 
-中文指南内容在此填写
+---
+
+<!-- 
+# 指南
+DEMO 演示
+<demo vue="../../components/index.vue"/> -->

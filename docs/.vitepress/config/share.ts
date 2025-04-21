@@ -1,4 +1,5 @@
 import { defineConfig } from "vitepress";
+import { vitepressDemoPlugin } from 'vitepress-demo-plugin'; 
 
 import { loadEnv } from "vite";
 const mode = process.env.NODE_ENV || "development";
@@ -30,6 +31,9 @@ export const sharedConfig = defineConfig({
   },
   markdown: {
     // markdown 配置
+    config(md) { 
+      md.use(vitepressDemoPlugin); 
+    },
     math: true,
     lineNumbers: true, // 行号显示
     image: {

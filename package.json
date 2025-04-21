@@ -7,9 +7,13 @@
   "devDependencies": {
     "@types/node": "^22.14.1",
     "sass-embedded": "^1.86.3",
-    "vitepress": "^1.6.3"
+    "vitepress": "^1.6.3",
+    "vitepress-demo-plugin": "^1.4.1"
   },
   "dependencies": {
-    "markdown-it-mathjax3": "^4.3.2"
+    "@ant-design/icons-vue": "^7.0.1",
+    "ant-design-vue": "^4.2.6",
+    "markdown-it-mathjax3": "^4.3.2",
+    "vuedraggable": "^4.1.0"
   }
 }
