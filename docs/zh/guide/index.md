@@ -1,8 +1,7 @@
 ---
-layout: demo 
+layout: demo
 sidebar: false
 footer: false
-
 ---
 
 <!-- 
